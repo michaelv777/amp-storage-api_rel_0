@@ -1,0 +1,7 @@
+amp\managed\storage\config\ApplicationConfig.class
+amp\managed\storage\factory\StorageServiceFactory.class
+amp\managed\storage\data\StatusService.class
+amp\managed\ws\rest\test\ConfigurationServiceTest.class
+amp\managed\storage\base\StorageServiceBase.class
+amp\managed\storage\config\ConfigurationService.class
+amp\managed\ws\rest\test\ConfigurationServiceJUnit.class
